@@ -4,5 +4,8 @@ footer {
 }
 
 footer h3 {
+    margin-top: 0;
     margin-left: 200px;
+    font-size: 56px;
+    color: #FFF;
 }
